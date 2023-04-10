@@ -349,6 +349,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Other Assets/BrokenVector/LowPolyDungeon/Demo Scenes/MouseCamLook.cs"
+"Assets/Other Assets/BrokenVector/LowPolyDungeon/Demo Scenes/PlayerMovement.cs"
+"Assets/Other Assets/BrokenVector/LowPolyDungeon/Demo Scenes/ScreenshotMaker.cs"
+"Assets/Other Assets/LowPolyLight/Effect/Bloom.cs"
+"Assets/Scripts/AutoDestruction.cs"
+"Assets/Scripts/BlockGenerator.cs"
+"Assets/Scripts/LevelHandler.cs"
 "Assets/Scripts/Lines.cs"
 "Assets/Scripts/Movement.cs"
 -langversion:9.0
