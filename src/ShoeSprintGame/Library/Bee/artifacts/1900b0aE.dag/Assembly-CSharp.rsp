@@ -352,7 +352,7 @@
 "Assets/Other Assets/BrokenVector/LowPolyDungeon/Demo Scenes/ScreenshotMaker.cs"
 "Assets/Other Assets/LowPolyLight/Effect/Bloom.cs"
 "Assets/Scripts/AutoDestruction.cs"
-"Assets/Scripts/ChangeSceen.cs"
+"Assets/Scripts/changeSceen.cs"
 "Assets/Scripts/LevelGenerator.cs"
 "Assets/Scripts/LevelManager.cs"
 "Assets/Scripts/Lines.cs"

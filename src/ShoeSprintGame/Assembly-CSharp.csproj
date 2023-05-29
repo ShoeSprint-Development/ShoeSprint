@@ -67,9 +67,9 @@
     <Compile Include="Assets\Scripts\SettingsScript.cs" />
     <Compile Include="Assets\Other Assets\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
     <Compile Include="Assets\Scripts\MusicController.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\PlayerCollisionHandler.cs" />
     <Compile Include="Assets\Scripts\Lines.cs" />
-    <Compile Include="Assets\Scripts\LevelManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Other Assets\LowPolyLight\Effect\Bloom.shader" />
