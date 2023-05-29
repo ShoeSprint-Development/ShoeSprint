@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: lavicka Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 564212813273325887, guid: 2d344cdb566d96442a4582c29c8f692b, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 3317286419666199649, guid: 2d344cdb566d96442a4582c29c8f692b, type: 3}
       propertyPath: m_RootOrder
       value: 0

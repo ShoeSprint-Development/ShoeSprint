@@ -55,6 +55,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: zidle Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1149450743610432623, guid: dc02f77b0506f764c9d22c61c681c4af, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2122566037265000455, guid: dc02f77b0506f764c9d22c61c681c4af, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dc02f77b0506f764c9d22c61c681c4af, type: 3}

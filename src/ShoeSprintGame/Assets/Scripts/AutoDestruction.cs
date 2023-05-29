@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class AutoDestruction : MonoBehaviour
 {
-
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")

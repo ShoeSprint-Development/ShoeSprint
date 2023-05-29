@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LevelHandler : MonoBehaviour
 {
-    public GameObject block;
+    public GameObject[] rooms;
     public int level = 1;
     void Start()
     {
@@ -17,9 +17,10 @@ public class LevelHandler : MonoBehaviour
         Vector3 pos = new Vector3(0, 0, 0);
         for (int i = 0; i < blocks; i++)
         {
-            block.GetComponent<BlockGenerator>().chance = Mathf.RoundToInt(100 / level) + 3;
-            Instantiate(block, pos, Quaternion.identity);
-            pos.z += 10;
+            //choose random block from blocks
+            int random = Random.Range(0, rooms.Length);
+            Instantiate(rooms[random], pos, Quaternion.identity);
+            pos.z += 10;            
         }
 
     }
