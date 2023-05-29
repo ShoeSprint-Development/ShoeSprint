@@ -57,18 +57,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AutoDestruction.cs" />
-    <Compile Include="Assets\Scripts\changeSceen.cs" />
+    <Compile Include="Assets\Scripts\ChangeSceen.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Other Assets\LowPolyLight\Effect\Bloom.cs" />
     <Compile Include="Assets\Other Assets\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
     <Compile Include="Assets\Scripts\ScoreController.cs" />
     <Compile Include="Assets\Other Assets\BrokenVector\LowPolyDungeon\Demo Scenes\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\LevelHandler.cs" />
+    <Compile Include="Assets\Scripts\LevelGenerator.cs" />
     <Compile Include="Assets\Scripts\SettingsScript.cs" />
     <Compile Include="Assets\Other Assets\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
     <Compile Include="Assets\Scripts\MusicController.cs" />
     <Compile Include="Assets\Scripts\PlayerCollisionHandler.cs" />
     <Compile Include="Assets\Scripts\Lines.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Other Assets\LowPolyLight\Effect\Bloom.shader" />

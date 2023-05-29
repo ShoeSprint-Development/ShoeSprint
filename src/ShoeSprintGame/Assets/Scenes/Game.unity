@@ -168,9 +168,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rooms:
-  - {fileID: 0}
-  - {fileID: 0}
-  level: 10
+  - {fileID: 1743905500}
+  - {fileID: 1743905499}
 --- !u!1 &667276682
 GameObject:
   m_ObjectHideFlags: 0
@@ -320,6 +319,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
+--- !u!1 &1743905499 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 823363123343470262, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
+  m_PrefabInstance: {fileID: 1743905498}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1743905500 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8491996513887007773, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
+  m_PrefabInstance: {fileID: 1743905498}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2037621021 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1782702501690864755, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
