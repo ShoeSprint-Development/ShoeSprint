@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
 
-public class LevelHandler : MonoBehaviour
+public class LevelGenerator : MonoBehaviour
 {
     [Header("Resources for generating level")]
     public GameObject[] rooms;

@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AutoDestruction.cs" />
-    <Compile Include="Assets\Scripts\ChangeSceen.cs" />
+    <Compile Include="Assets\Scripts\changeSceen.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Other Assets\LowPolyLight\Effect\Bloom.cs" />
     <Compile Include="Assets\Other Assets\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
