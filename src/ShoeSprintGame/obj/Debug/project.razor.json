@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "d:\\SPSE_Jecna\\MVH\\Final Project\\ShoeSprint\\src\\ShoeSprintGame\\obj\\Debug\\project.razor.json",
+  "FilePath": "d:\\SPSE_Jecna\\MVH\\Final Project\\ShoeSprint\\src\\ShoeSprintGame\\Assembly-CSharp-Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
